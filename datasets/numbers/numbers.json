@@ -1,0 +1,762 @@
+[
+  {
+    "entities": [
+      {
+        "start": 13,
+        "end": 14,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "лабораторная 1"
+  },
+  {
+    "entities": [
+      {
+        "start": 13,
+        "end": 14,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "лабораторная 2"
+  },
+  {
+    "entities": [
+      {
+        "start": 13,
+        "end": 14,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "лабораторная 3"
+  },
+  {
+    "entities": [
+      {
+        "start": 19,
+        "end": 20,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "лабораторная номер 4"
+  },
+  {
+    "entities": [
+      {
+        "start": 12,
+        "end": 13,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "контрольная 5"
+  },
+  {
+    "entities": [
+      {
+        "start": 12,
+        "end": 13,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "контрольная 6"
+  },
+  {
+    "entities": [
+      {
+        "start": 7,
+        "end": 8,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "неделя 7"
+  },
+  {
+    "entities": [
+      {
+        "start": 12,
+        "end": 13,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "контрольная 8"
+  },
+  {
+    "entities": [
+      {
+        "start": 19,
+        "end": 20,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "лабораторная номер 9"
+  },
+  {
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "лабораторная 10"
+  },
+  {
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "лабораторная 11"
+  },
+  {
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "лабораторная 12"
+  },
+  {
+    "entities": [
+      {
+        "start": 18,
+        "end": 20,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "контрольная номер 13"
+  },
+  {
+    "entities": [
+      {
+        "start": 7,
+        "end": 9,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "неделя 14"
+  },
+  {
+    "entities": [
+      {
+        "start": 7,
+        "end": 9,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "неделя 15"
+  },
+  {
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "лабораторная 16"
+  },
+  {
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "лабораторная 17"
+  },
+  {
+    "entities": [
+      {
+        "start": 12,
+        "end": 14,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "контрольная 18"
+  },
+  {
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "лабораторная 19"
+  },
+  {
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "лабораторная 20"
+  },
+  {
+    "entities": [
+      {
+        "start": 12,
+        "end": 14,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "контрольная 21"
+  },
+  {
+    "entities": [
+      {
+        "start": 19,
+        "end": 21,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "лабораторная номер 22"
+  },
+  {
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "лабораторная 23"
+  },
+  {
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "лабораторная 24"
+  },
+  {
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "лабораторная 25"
+  },
+  {
+    "entities": [
+      {
+        "start": 18,
+        "end": 20,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "контрольная номер 26"
+  },
+  {
+    "entities": [
+      {
+        "start": 12,
+        "end": 14,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "контрольная 27"
+  },
+  {
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "лабораторная 28"
+  },
+  {
+    "entities": [
+      {
+        "start": 7,
+        "end": 9,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "неделя 29"
+  },
+  {
+    "entities": [
+      {
+        "start": 12,
+        "end": 14,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "контрольная 30"
+  },
+  {
+    "entities": [
+      {
+        "start": 7,
+        "end": 9,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "неделя 31"
+  },
+  {
+    "entities": [
+      {
+        "start": 7,
+        "end": 9,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "неделя 32"
+  },
+  {
+    "entities": [
+      {
+        "start": 12,
+        "end": 14,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "контрольная 33"
+  },
+  {
+    "entities": [
+      {
+        "start": 12,
+        "end": 14,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "контрольная 34"
+  },
+  {
+    "entities": [
+      {
+        "start": 19,
+        "end": 21,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "лабораторная номер 35"
+  },
+  {
+    "entities": [
+      {
+        "start": 18,
+        "end": 20,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "контрольная номер 36"
+  },
+  {
+    "entities": [
+      {
+        "start": 18,
+        "end": 20,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "контрольная номер 37"
+  },
+  {
+    "entities": [
+      {
+        "start": 7,
+        "end": 9,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "неделя 38"
+  },
+  {
+    "entities": [
+      {
+        "start": 18,
+        "end": 20,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "контрольная номер 39"
+  },
+  {
+    "entities": [
+      {
+        "start": 12,
+        "end": 14,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "контрольная 40"
+  },
+  {
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "лабораторная 41"
+  },
+  {
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "лабораторная 42"
+  },
+  {
+    "entities": [
+      {
+        "start": 7,
+        "end": 9,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "неделя 43"
+  },
+  {
+    "entities": [
+      {
+        "start": 19,
+        "end": 21,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "лабораторная номер 44"
+  },
+  {
+    "entities": [
+      {
+        "start": 7,
+        "end": 9,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "неделя 45"
+  },
+  {
+    "entities": [
+      {
+        "start": 19,
+        "end": 21,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "лабораторная номер 46"
+  },
+  {
+    "entities": [
+      {
+        "start": 12,
+        "end": 14,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "контрольная 47"
+  },
+  {
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "лабораторная 48"
+  },
+  {
+    "entities": [
+      {
+        "start": 12,
+        "end": 14,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "контрольная 49"
+  },
+  {
+    "entities": [
+      {
+        "start": 18,
+        "end": 20,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "контрольная номер 50"
+  },
+  {
+    "entities": [
+      {
+        "start": 7,
+        "end": 9,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "неделя 50"
+  },
+  {
+    "entities": [
+      {
+        "start": 13,
+        "end": 15,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "лабораторная 52"
+  },
+  {
+    "entities": [
+      {
+        "start": 7,
+        "end": 9,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "неделя 53"
+  },
+  {
+    "entities": [
+      {
+        "start": 18,
+        "end": 22,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "контрольная номер один"
+  },
+  {
+    "entities": [
+      {
+        "start": 18,
+        "end": 21,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "контрольная номер два"
+  },
+  {
+    "entities": [
+      {
+        "start": 7,
+        "end": 10,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "неделя три"
+  },
+  {
+    "entities": [
+      {
+        "start": 18,
+        "end": 24,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "контрольная номер четыре"
+  },
+  {
+    "entities": [
+      {
+        "start": 13,
+        "end": 17,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "лабораторная пять"
+  },
+  {
+    "entities": [
+      {
+        "start": 18,
+        "end": 23,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "контрольная номер шесть"
+  },
+  {
+    "entities": [
+      {
+        "start": 12,
+        "end": 16,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "контрольная семь"
+  },
+  {
+    "entities": [
+      {
+        "start": 19,
+        "end": 25,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "лабораторная номер восемь"
+  },
+  {
+    "entities": [
+      {
+        "start": 19,
+        "end": 25,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "лабораторная номер девять"
+  },
+  {
+    "entities": [
+      {
+        "start": 19,
+        "end": 25,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "лабораторная номер десять"
+  },
+  {
+    "entities": [
+      {
+        "start": 12,
+        "end": 23,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "контрольная одиннадцать"
+  },
+  {
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "неделя двенадцать"
+  },
+  {
+    "entities": [
+      {
+        "start": 19,
+        "end": 29,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "лабораторная номер тринадцать"
+  },
+  {
+    "entities": [
+      {
+        "start": 18,
+        "end": 30,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "контрольная номер четырнадцать"
+  },
+  {
+    "entities": [
+      {
+        "start": 12,
+        "end": 22,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "контрольная пятнадцать"
+  },
+  {
+    "entities": [
+      {
+        "start": 18,
+        "end": 29,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "контрольная номер шестнадцать"
+  },
+  {
+    "entities": [
+      {
+        "start": 7,
+        "end": 17,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "неделя семнадцать"
+  },
+  {
+    "entities": [
+      {
+        "start": 18,
+        "end": 30,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "контрольная номер восемнадцать"
+  },
+  {
+    "entities": [
+      {
+        "start": 7,
+        "end": 19,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "неделя девятнадцать"
+  },
+  {
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "контрольная двадцать"
+  },
+  {
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "контрольная тридцать"
+  },
+  {
+    "entities": [
+      {
+        "start": 18,
+        "end": 23,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "контрольная номер сорок"
+  },
+  {
+    "entities": [
+      {
+        "start": 19,
+        "end": 28,
+        "label": "NUMBER"
+      }
+    ],
+    "text": "лабораторная номер пятьдесят"
+  }
+]

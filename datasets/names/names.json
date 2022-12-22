@@ -1,0 +1,1662 @@
+[
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 26,
+        "label": "NAME"
+      }
+    ],
+    "text": "Артюх Севастьян Витальевич гитлаб аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 15,
+        "end": 43,
+        "label": "NAME"
+      }
+    ],
+    "text": "gitlab аккаунт Афанасьев Владимир Сергеевич"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 26,
+        "label": "NAME"
+      }
+    ],
+    "text": "Безденежных Павел Павлович баллы"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 32,
+        "label": "NAME"
+      }
+    ],
+    "text": "Васильченко Александр Алексеевич гитлаб аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 15,
+        "end": 42,
+        "label": "NAME"
+      }
+    ],
+    "text": "github аккаунт Головнёв Артемий Евгеньевич"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 24,
+        "label": "NAME"
+      }
+    ],
+    "text": "Долгушин Иван Викторович гитлаб аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 15,
+        "end": 36,
+        "label": "NAME"
+      }
+    ],
+    "text": "gitlab аккаунт Ежов Сергей Антонович"
+  },
+  {
+    "entities": [
+      {
+        "start": 15,
+        "end": 42,
+        "label": "NAME"
+      }
+    ],
+    "text": "github аккаунт Кечиков Роман Александрович"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 23,
+        "label": "NAME"
+      }
+    ],
+    "text": "Кошукова Юлия Сергеевна баллы"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 26,
+        "label": "NAME"
+      }
+    ],
+    "text": "Лепешкин Вячеслав Олегович гитлаб аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 22,
+        "label": "NAME"
+      }
+    ],
+    "text": "Лонский Денис Олегович баллы"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 24,
+        "label": "NAME"
+      }
+    ],
+    "text": "Михеев Сергей Евгеньевич gitlab аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 15,
+        "end": 37,
+        "label": "NAME"
+      }
+    ],
+    "text": "гитхаб аккаунт Нелин Максим Андреевич"
+  },
+  {
+    "entities": [
+      {
+        "start": 15,
+        "end": 35,
+        "label": "NAME"
+      }
+    ],
+    "text": "гитлаб аккаунт Петров Роман Юрьевич"
+  },
+  {
+    "entities": [
+      {
+        "start": 13,
+        "end": 36,
+        "label": "NAME"
+      }
+    ],
+    "text": "успеваемость Пешков Никита Денисович"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 25,
+        "label": "NAME"
+      }
+    ],
+    "text": "Понамарев Антон Сергеевич gitlab аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 26,
+        "label": "NAME"
+      }
+    ],
+    "text": "Попов Владислав Васильевич баллы"
+  },
+  {
+    "entities": [
+      {
+        "start": 15,
+        "end": 38,
+        "label": "NAME"
+      }
+    ],
+    "text": "гитлаб аккаунт Пышненко Елена Игоревна"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 23,
+        "label": "NAME"
+      }
+    ],
+    "text": "Сабитов Рашид Гумарович гитлаб аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 27,
+        "label": "NAME"
+      }
+    ],
+    "text": "Селенкин Евгений Евгеньевич gitlab аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 15,
+        "end": 39,
+        "label": "NAME"
+      }
+    ],
+    "text": "github аккаунт Суворова Мария Сергеевна"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 23,
+        "label": "NAME"
+      }
+    ],
+    "text": "Топоров Семён Андреевич баллы"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 25,
+        "label": "NAME"
+      }
+    ],
+    "text": "Турова Ольга Владимировна гитхаб аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 15,
+        "end": 40,
+        "label": "NAME"
+      }
+    ],
+    "text": "gitlab аккаунт Тютюник Станислав Юрьевич"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 30,
+        "label": "NAME"
+      }
+    ],
+    "text": "Ходорковский Алексей Андреевич github аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 29,
+        "label": "NAME"
+      }
+    ],
+    "text": "Шестакова Диана Александровна гитхаб аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 26,
+        "label": "NAME"
+      }
+    ],
+    "text": "Шухлов Вячеслав Эдуардович гитхаб аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 26,
+        "label": "NAME"
+      }
+    ],
+    "text": "Яковенко Дмитрий Сергеевич gitlab аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 15,
+        "end": 40,
+        "label": "NAME"
+      }
+    ],
+    "text": "github аккаунт Арбузова Валерия Олеговна"
+  },
+  {
+    "entities": [
+      {
+        "start": 15,
+        "end": 37,
+        "label": "NAME"
+      }
+    ],
+    "text": "gitlab аккаунт Блажчук Артём Игоревич"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 28,
+        "label": "NAME"
+      }
+    ],
+    "text": "Герасимов Евгений Витальевич баллы"
+  },
+  {
+    "entities": [
+      {
+        "start": 15,
+        "end": 37,
+        "label": "NAME"
+      }
+    ],
+    "text": "гитхаб аккаунт Гущин Николай Олегович"
+  },
+  {
+    "entities": [
+      {
+        "start": 13,
+        "end": 35,
+        "label": "NAME"
+      }
+    ],
+    "text": "успеваемость Дробов Денис Андреевич"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 30,
+        "label": "NAME"
+      }
+    ],
+    "text": "Иванова Виктория Александровна github аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 26,
+        "label": "NAME"
+      }
+    ],
+    "text": "Катюшкина Алина Валерьевна гитлаб аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 15,
+        "end": 44,
+        "label": "NAME"
+      }
+    ],
+    "text": "github аккаунт Киселева Любовь Александровна"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 27,
+        "label": "NAME"
+      }
+    ],
+    "text": "Ковалевский Роман Денисович gitlab аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 30,
+        "label": "NAME"
+      }
+    ],
+    "text": "Кудряшов Евгений Александрович github аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 13,
+        "end": 36,
+        "label": "NAME"
+      }
+    ],
+    "text": "успеваемость Лян Вячеслав Викторович"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 27,
+        "label": "NAME"
+      }
+    ],
+    "text": "Михайлин Максим Анатольевич гитлаб аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 28,
+        "label": "NAME"
+      }
+    ],
+    "text": "Михайлов Александр Андреевич gitlab аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 6,
+        "end": 28,
+        "label": "NAME"
+      }
+    ],
+    "text": "баллы Осипова Яна Дмитриевна"
+  },
+  {
+    "entities": [
+      {
+        "start": 15,
+        "end": 42,
+        "label": "NAME"
+      }
+    ],
+    "text": "гитхаб аккаунт Рыбакова Екатерина Ивановна"
+  },
+  {
+    "entities": [
+      {
+        "start": 6,
+        "end": 36,
+        "label": "NAME"
+      }
+    ],
+    "text": "баллы Удалова Анастасия Владимировна"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 23,
+        "label": "NAME"
+      }
+    ],
+    "text": "Файзулин Иван Сергеевич успеваемость"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 28,
+        "label": "NAME"
+      }
+    ],
+    "text": "Цупиков Владислав Дмитриевич успеваемость"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 23,
+        "label": "NAME"
+      }
+    ],
+    "text": "Шелудков Илья Андреевич успеваемость"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 24,
+        "label": "NAME"
+      }
+    ],
+    "text": "Шепелев Никита Сергеевич github аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 22,
+        "label": "NAME"
+      }
+    ],
+    "text": "Щепелев Никита Юрьевич гитлаб аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 13,
+        "label": "NAME"
+      }
+    ],
+    "text": "Алина Акимова github аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 6,
+        "end": 19,
+        "label": "NAME"
+      }
+    ],
+    "text": "баллы Роман Андреев"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 16,
+        "label": "NAME"
+      }
+    ],
+    "text": "Артём Аржанников гитхаб аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 6,
+        "end": 22,
+        "label": "NAME"
+      }
+    ],
+    "text": "баллы Виктор Артамонов"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 16,
+        "label": "NAME"
+      }
+    ],
+    "text": "Азамат Аубакиров баллы"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 15,
+        "label": "NAME"
+      }
+    ],
+    "text": "Марина Барлибен гитхаб аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 6,
+        "end": 20,
+        "label": "NAME"
+      }
+    ],
+    "text": "баллы Андрей Барышев"
+  },
+  {
+    "entities": [
+      {
+        "start": 15,
+        "end": 30,
+        "label": "NAME"
+      }
+    ],
+    "text": "гитхаб аккаунт Юлиан Белозеров"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 15,
+        "label": "NAME"
+      }
+    ],
+    "text": "Сергей Васильев gitlab аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 21,
+        "label": "NAME"
+      }
+    ],
+    "text": "Александр Васильченко успеваемость"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 19,
+        "label": "NAME"
+      }
+    ],
+    "text": "Константин Верёвкин github аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 6,
+        "end": 24,
+        "label": "NAME"
+      }
+    ],
+    "text": "баллы Ростислав Вечернин"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 17,
+        "label": "NAME"
+      }
+    ],
+    "text": "Владислав Глушков баллы"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 16,
+        "label": "NAME"
+      }
+    ],
+    "text": "Кирилл Григорьев gitlab аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 15,
+        "label": "NAME"
+      }
+    ],
+    "text": "Марина Давыдова гитлаб аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 6,
+        "end": 19,
+        "label": "NAME"
+      }
+    ],
+    "text": "баллы Иван Долгушин"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 16,
+        "label": "NAME"
+      }
+    ],
+    "text": "Константин Дутов успеваемость"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 14,
+        "label": "NAME"
+      }
+    ],
+    "text": "Николай Ерилов github аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "label": "NAME"
+      }
+    ],
+    "text": "Данил Зайцев gitlab аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 16,
+        "label": "NAME"
+      }
+    ],
+    "text": "Дмитрий Зенченко гитлаб аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 15,
+        "label": "NAME"
+      }
+    ],
+    "text": "Владимир Иванов успеваемость"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 14,
+        "label": "NAME"
+      }
+    ],
+    "text": "Амина Кадырова github аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 15,
+        "label": "NAME"
+      }
+    ],
+    "text": "Степан Казанцев github аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 15,
+        "label": "NAME"
+      }
+    ],
+    "text": "Алина Катюшкина gitlab аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "NAME"
+      }
+    ],
+    "text": "Илья Кузин github аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 15,
+        "end": 27,
+        "label": "NAME"
+      }
+    ],
+    "text": "gitlab аккаунт Никита Кузин"
+  },
+  {
+    "entities": [
+      {
+        "start": 13,
+        "end": 26,
+        "label": "NAME"
+      }
+    ],
+    "text": "успеваемость Павел Кутиков"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "label": "NAME"
+      }
+    ],
+    "text": "Мария Лапова gitlab аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "label": "NAME"
+      }
+    ],
+    "text": "Андрей Лила гитхаб аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "NAME"
+      }
+    ],
+    "text": "Илья Лобов github аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 15,
+        "end": 29,
+        "label": "NAME"
+      }
+    ],
+    "text": "гитлаб аккаунт Никита Лободин"
+  },
+  {
+    "entities": [
+      {
+        "start": 6,
+        "end": 17,
+        "label": "NAME"
+      }
+    ],
+    "text": "баллы Игорь Лёвин"
+  },
+  {
+    "entities": [
+      {
+        "start": 15,
+        "end": 27,
+        "label": "NAME"
+      }
+    ],
+    "text": "gitlab аккаунт Илья Мальцев"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 13,
+        "label": "NAME"
+      }
+    ],
+    "text": "Сергей Михеев баллы"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 14,
+        "label": "NAME"
+      }
+    ],
+    "text": "Максим Мищенко гитлаб аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 13,
+        "end": 27,
+        "label": "NAME"
+      }
+    ],
+    "text": "успеваемость Степан Неверов"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 13,
+        "label": "NAME"
+      }
+    ],
+    "text": "Эмиль Новиков gitlab аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 15,
+        "end": 30,
+        "label": "NAME"
+      }
+    ],
+    "text": "гитхаб аккаунт Алексей Номинас"
+  },
+  {
+    "entities": [
+      {
+        "start": 6,
+        "end": 18,
+        "label": "NAME"
+      }
+    ],
+    "text": "баллы Роман Петров"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 13,
+        "label": "NAME"
+      }
+    ],
+    "text": "Никита Пешков gitlab аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 15,
+        "end": 34,
+        "label": "NAME"
+      }
+    ],
+    "text": "гитхаб аккаунт Екатерина Пирожкова"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 20,
+        "label": "NAME"
+      }
+    ],
+    "text": "Константин Пожильцов gitlab аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 18,
+        "label": "NAME"
+      }
+    ],
+    "text": "Виктория Половцева гитхаб аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 15,
+        "label": "NAME"
+      }
+    ],
+    "text": "Антон Понамарев баллы"
+  },
+  {
+    "entities": [
+      {
+        "start": 13,
+        "end": 24,
+        "label": "NAME"
+      }
+    ],
+    "text": "успеваемость Анна Попова"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 16,
+        "label": "NAME"
+      }
+    ],
+    "text": "Илья Проскуряков баллы"
+  },
+  {
+    "entities": [
+      {
+        "start": 13,
+        "end": 30,
+        "label": "NAME"
+      }
+    ],
+    "text": "успеваемость Владислав Ракович"
+  },
+  {
+    "entities": [
+      {
+        "start": 15,
+        "end": 29,
+        "label": "NAME"
+      }
+    ],
+    "text": "гитхаб аккаунт Максим Ремизов"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 15,
+        "label": "NAME"
+      }
+    ],
+    "text": "Валерий Ромашов гитхаб аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 13,
+        "label": "NAME"
+      }
+    ],
+    "text": "Роман Савощик гитлаб аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 13,
+        "end": 27,
+        "label": "NAME"
+      }
+    ],
+    "text": "успеваемость Максим Сазонов"
+  },
+  {
+    "entities": [
+      {
+        "start": 15,
+        "end": 27,
+        "label": "NAME"
+      }
+    ],
+    "text": "gitlab аккаунт Иван Сафаров"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 14,
+        "label": "NAME"
+      }
+    ],
+    "text": "Михаил Селявин успеваемость"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 15,
+        "label": "NAME"
+      }
+    ],
+    "text": "Алексей Сеначин баллы"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 13,
+        "label": "NAME"
+      }
+    ],
+    "text": "Вадим Сигутин gitlab аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 15,
+        "end": 28,
+        "label": "NAME"
+      }
+    ],
+    "text": "гитлаб аккаунт Дмитрий Сычев"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 15,
+        "label": "NAME"
+      }
+    ],
+    "text": "Александр Фоляк баллы"
+  },
+  {
+    "entities": [
+      {
+        "start": 6,
+        "end": 19,
+        "label": "NAME"
+      }
+    ],
+    "text": "баллы Алина Циценко"
+  },
+  {
+    "entities": [
+      {
+        "start": 15,
+        "end": 28,
+        "label": "NAME"
+      }
+    ],
+    "text": "гитхаб аккаунт Тарас Цуканов"
+  },
+  {
+    "entities": [
+      {
+        "start": 15,
+        "end": 31,
+        "label": "NAME"
+      }
+    ],
+    "text": "гитлаб аккаунт Амирхан Шамгонов"
+  },
+  {
+    "entities": [
+      {
+        "start": 15,
+        "end": 28,
+        "label": "NAME"
+      }
+    ],
+    "text": "гитлаб аккаунт Кирилл Шантин"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 15,
+        "label": "NAME"
+      }
+    ],
+    "text": "Алина Шехурдина github аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 18,
+        "label": "NAME"
+      }
+    ],
+    "text": "Анастасия Шкиринец gitlab аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 15,
+        "end": 29,
+        "label": "NAME"
+      }
+    ],
+    "text": "гитхаб аккаунт Данила Шнайдер"
+  },
+  {
+    "entities": [
+      {
+        "start": 6,
+        "end": 16,
+        "label": "NAME"
+      }
+    ],
+    "text": "баллы Илья Шуляк"
+  },
+  {
+    "entities": [
+      {
+        "start": 13,
+        "end": 27,
+        "label": "NAME"
+      }
+    ],
+    "text": "успеваемость Матвей Эйхольц"
+  },
+  {
+    "entities": [
+      {
+        "start": 15,
+        "end": 30,
+        "label": "NAME"
+      }
+    ],
+    "text": "github аккаунт Валерия Янычева"
+  },
+  {
+    "entities": [
+      {
+        "start": 15,
+        "end": 44,
+        "label": "NAME"
+      }
+    ],
+    "text": "gitlab аккаунт Багаутдинов Даниил Русланович"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 26,
+        "label": "NAME"
+      }
+    ],
+    "text": "Булгакова Полина Ильинична гитхаб аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 15,
+        "end": 39,
+        "label": "NAME"
+      }
+    ],
+    "text": "гитлаб аккаунт Бушуев Максим Михайлович"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 32,
+        "label": "NAME"
+      }
+    ],
+    "text": "Граматикопуло Илья Александрович github аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 25,
+        "label": "NAME"
+      }
+    ],
+    "text": "Гришаев Даниил Витальевич github аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 27,
+        "label": "NAME"
+      }
+    ],
+    "text": "Доканин Александр Андреевич успеваемость"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 27,
+        "label": "NAME"
+      }
+    ],
+    "text": "Ермохин Александр Андреевич баллы"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 27,
+        "label": "NAME"
+      }
+    ],
+    "text": "Зайцев Константин Денисович gitlab аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 26,
+        "label": "NAME"
+      }
+    ],
+    "text": "Злобин Владимир Евгеньевич гитлаб аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 15,
+        "end": 37,
+        "label": "NAME"
+      }
+    ],
+    "text": "гитхаб аккаунт Зотов Никита Андреевич"
+  },
+  {
+    "entities": [
+      {
+        "start": 13,
+        "end": 39,
+        "label": "NAME"
+      }
+    ],
+    "text": "успеваемость Ключникова Алина Сергеевна"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 24,
+        "label": "NAME"
+      }
+    ],
+    "text": "Коханенко Артём Иванович гитхаб аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 23,
+        "label": "NAME"
+      }
+    ],
+    "text": "Кудряшов Роман Игоревич баллы"
+  },
+  {
+    "entities": [
+      {
+        "start": 6,
+        "end": 29,
+        "label": "NAME"
+      }
+    ],
+    "text": "баллы Лапин Андрей Дмитриевич"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 27,
+        "label": "NAME"
+      }
+    ],
+    "text": "Левицкий Илья Александрович баллы"
+  },
+  {
+    "entities": [
+      {
+        "start": 15,
+        "end": 41,
+        "label": "NAME"
+      }
+    ],
+    "text": "github аккаунт Ливинский Семён Алексеевич"
+  },
+  {
+    "entities": [
+      {
+        "start": 6,
+        "end": 34,
+        "label": "NAME"
+      }
+    ],
+    "text": "баллы Малицкий Александр Сергеевич"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 32,
+        "label": "NAME"
+      }
+    ],
+    "text": "Пащенко Владислав Константинович гитхаб аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 25,
+        "label": "NAME"
+      }
+    ],
+    "text": "Пикалов Сергей Витальевич успеваемость"
+  },
+  {
+    "entities": [
+      {
+        "start": 15,
+        "end": 46,
+        "label": "NAME"
+      }
+    ],
+    "text": "github аккаунт Радионова Александра Максимовна"
+  },
+  {
+    "entities": [
+      {
+        "start": 6,
+        "end": 37,
+        "label": "NAME"
+      }
+    ],
+    "text": "баллы Ратниченко Анастасия Викторовна"
+  },
+  {
+    "entities": [
+      {
+        "start": 13,
+        "end": 38,
+        "label": "NAME"
+      }
+    ],
+    "text": "успеваемость Савченко София Дмитриевна"
+  },
+  {
+    "entities": [
+      {
+        "start": 15,
+        "end": 43,
+        "label": "NAME"
+      }
+    ],
+    "text": "гитхаб аккаунт Смирнов Михаил Александрович"
+  },
+  {
+    "entities": [
+      {
+        "start": 13,
+        "end": 38,
+        "label": "NAME"
+      }
+    ],
+    "text": "успеваемость Супрядкин Артем Сергеевич"
+  },
+  {
+    "entities": [
+      {
+        "start": 6,
+        "end": 32,
+        "label": "NAME"
+      }
+    ],
+    "text": "баллы Терлеева Татьяна Сергеевна"
+  },
+  {
+    "entities": [
+      {
+        "start": 6,
+        "end": 34,
+        "label": "NAME"
+      }
+    ],
+    "text": "баллы Цвиркунов Михаил Анатольевич"
+  },
+  {
+    "entities": [
+      {
+        "start": 6,
+        "end": 37,
+        "label": "NAME"
+      }
+    ],
+    "text": "баллы Широковский Данил Александрович"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 29,
+        "label": "NAME"
+      }
+    ],
+    "text": "Безуглов Денис Константинович успеваемость"
+  },
+  {
+    "entities": [
+      {
+        "start": 15,
+        "end": 39,
+        "label": "NAME"
+      }
+    ],
+    "text": "github аккаунт Бугаенко Иван Евгеньевич"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 29,
+        "label": "NAME"
+      }
+    ],
+    "text": "Вексельман Роман Вячеславович gitlab аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 15,
+        "end": 43,
+        "label": "NAME"
+      }
+    ],
+    "text": "github аккаунт Видякин Андрей Александрович"
+  },
+  {
+    "entities": [
+      {
+        "start": 6,
+        "end": 33,
+        "label": "NAME"
+      }
+    ],
+    "text": "баллы Голубь Владислав Валерьевич"
+  },
+  {
+    "entities": [
+      {
+        "start": 13,
+        "end": 40,
+        "label": "NAME"
+      }
+    ],
+    "text": "успеваемость Добрянский Андрей Сергеевич"
+  },
+  {
+    "entities": [
+      {
+        "start": 15,
+        "end": 40,
+        "label": "NAME"
+      }
+    ],
+    "text": "гитхаб аккаунт Еникеев Максим Валерьевич"
+  },
+  {
+    "entities": [
+      {
+        "start": 15,
+        "end": 38,
+        "label": "NAME"
+      }
+    ],
+    "text": "gitlab аккаунт Журба Владимир Олегович"
+  },
+  {
+    "entities": [
+      {
+        "start": 13,
+        "end": 39,
+        "label": "NAME"
+      }
+    ],
+    "text": "успеваемость Задворнов Артём Дмитриевич"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 23,
+        "label": "NAME"
+      }
+    ],
+    "text": "Знаев Алексей Сергеевич github аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 15,
+        "end": 38,
+        "label": "NAME"
+      }
+    ],
+    "text": "гитхаб аккаунт Иванов Фёдор Алексеевич"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 26,
+        "label": "NAME"
+      }
+    ],
+    "text": "Кабанов Николай Максимович гитхаб аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 30,
+        "label": "NAME"
+      }
+    ],
+    "text": "Кошубаров Матвей Александрович гитлаб аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 24,
+        "label": "NAME"
+      }
+    ],
+    "text": "Курпенов Куат Ибраимович gitlab аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 15,
+        "end": 42,
+        "label": "NAME"
+      }
+    ],
+    "text": "gitlab аккаунт Мирошниченко Артём Олегович"
+  },
+  {
+    "entities": [
+      {
+        "start": 6,
+        "end": 37,
+        "label": "NAME"
+      }
+    ],
+    "text": "баллы Никитин Александр Александрович"
+  },
+  {
+    "entities": [
+      {
+        "start": 15,
+        "end": 41,
+        "label": "NAME"
+      }
+    ],
+    "text": "гитлаб аккаунт Олесова Людмила Руслановна"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 22,
+        "label": "NAME"
+      }
+    ],
+    "text": "Патока Юрий Васильевич гитлаб аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 15,
+        "end": 43,
+        "label": "NAME"
+      }
+    ],
+    "text": "gitlab аккаунт Плескач Александр Тимофеевич"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 27,
+        "label": "NAME"
+      }
+    ],
+    "text": "Подовинов Андрей Алексеевич баллы"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 26,
+        "label": "NAME"
+      }
+    ],
+    "text": "Сеначин Алексей Витальевич гитлаб аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 27,
+        "label": "NAME"
+      }
+    ],
+    "text": "Сотников Арсений Дмитриевич github аккаунт"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 27,
+        "label": "NAME"
+      }
+    ],
+    "text": "Тодаренко Владимир Петрович gitlab аккаунт"
+  }
+]

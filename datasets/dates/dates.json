@@ -1,0 +1,4682 @@
+[
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 11,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары завтра"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 19,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия послезавтра"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "label": "DATE"
+      }
+    ],
+    "text": "через неделю расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 27,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия на следующей неделе"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 16,
+        "label": "DATE"
+      }
+    ],
+    "text": "через две недели расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "label": "DATE"
+      }
+    ],
+    "text": "через месяц занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "01.01 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "DATE"
+      }
+    ],
+    "text": "1.01 пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 02.01"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "DATE"
+      }
+    ],
+    "text": "2.01 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "03.01 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 15,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 3.01"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 16,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 04.01"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "DATE"
+      }
+    ],
+    "text": "4.01 пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 05.01"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 15,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 5.01"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 06.01"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 6.01"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 07.01"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "DATE"
+      }
+    ],
+    "text": "7.01 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 14,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 08 января"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 8 января"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "09.01 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 9.01"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 20,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 10 января"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "11 января расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "12 января расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 14,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 13 января"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 17,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 14 января"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "15.01 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 14,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 16 января"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 17.01"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "18 января занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 20,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 19 января"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 20,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 20 января"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 16,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 21.01"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 16,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 22.01"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 16,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 23.01"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "24.01 пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 16,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 25.01"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "26 января пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 14,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 27 января"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "28 января пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 20,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 29 января"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "30 января расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 15,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 01 февраля"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 20,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 1 февраля"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 02.02"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "DATE"
+      }
+    ],
+    "text": "2.02 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 03.02"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 15,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 3.02"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 15,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 04 февраля"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "4 февраля расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "05.02 пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "DATE"
+      }
+    ],
+    "text": "5.02 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "06 февраля занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 20,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 6 февраля"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "07 февраля занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "7 февраля расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "08.02 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 8.02"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "09.02 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "DATE"
+      }
+    ],
+    "text": "9.02 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 10.02"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 11.02"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 12.02"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "13 февраля пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 15,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 14 февраля"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 15.02"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "16.02 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 21,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 17 февраля"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "18.02 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 15,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 19 февраля"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 20.02"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 21.02"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 22.02"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "23 февраля расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "24 февраля пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "25 февраля расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "26 февраля расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "27.02 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 18,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 28 февраля"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "01.03 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "DATE"
+      }
+    ],
+    "text": "1.03 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 02.03"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 2.03"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 16,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 03.03"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "DATE"
+      }
+    ],
+    "text": "3.03 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "DATE"
+      }
+    ],
+    "text": "04 марта пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 18,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 4 марта"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 05.03"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "DATE"
+      }
+    ],
+    "text": "5.03 пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "06.03 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "DATE"
+      }
+    ],
+    "text": "6.03 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 07.03"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "DATE"
+      }
+    ],
+    "text": "7.03 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 16,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 08 марта"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 12,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 8 марта"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "09.03 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 9.03"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 10 марта"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 11.03"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 12.03"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 13 марта"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 16,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 14 марта"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "15.03 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "DATE"
+      }
+    ],
+    "text": "16 марта расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "DATE"
+      }
+    ],
+    "text": "17 марта расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 18.03"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 16,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 19 марта"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 20 марта"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 21.03"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "DATE"
+      }
+    ],
+    "text": "22 марта пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "23.03 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "DATE"
+      }
+    ],
+    "text": "24 марта занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 16,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 25 марта"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "DATE"
+      }
+    ],
+    "text": "26 марта занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 16,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 27 марта"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "28.03 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 19,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 29 марта"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "DATE"
+      }
+    ],
+    "text": "30 марта пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 01.04"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 1.04"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 02.04"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "DATE"
+      }
+    ],
+    "text": "2.04 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "03.04 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "DATE"
+      }
+    ],
+    "text": "3.04 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "04 апреля расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 16,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 4 апреля"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "05.04 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "DATE"
+      }
+    ],
+    "text": "5.04 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "06 апреля расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 6 апреля"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "07.04 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "DATE"
+      }
+    ],
+    "text": "7.04 пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "08.04 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "DATE"
+      }
+    ],
+    "text": "8.04 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "09.04 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 15,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 9.04"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "10 апреля пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "11.04 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 12.04"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "13.04 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "14.04 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 16,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 15.04"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 16.04"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "17 апреля пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 18.04"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 14,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 19 апреля"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 20.04"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 21.04"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 14,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 22 апреля"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 20,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 23 апреля"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "24 апреля пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 25.04"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 14,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 26 апреля"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 27.04"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 14,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 28 апреля"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "29 апреля расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 11,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 01 мая"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 1 мая"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "02.05 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 2.05"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "03.05 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 3.05"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "04.05 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 4.05"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "DATE"
+      }
+    ],
+    "text": "05 мая расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 16,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 5 мая"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 17,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 06 мая"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 16,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 6 мая"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 11,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 07 мая"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 7 мая"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 11,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 08 мая"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 8 мая"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 14,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 09 мая"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "9 мая пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 17,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 10 мая"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "DATE"
+      }
+    ],
+    "text": "11 мая пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 12.05"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "13.05 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 14.05"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 15.05"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 16.05"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 17.05"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "18.05 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "DATE"
+      }
+    ],
+    "text": "19 мая занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "DATE"
+      }
+    ],
+    "text": "20 мая занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "21.05 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "22.05 пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "DATE"
+      }
+    ],
+    "text": "23 мая занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "24.05 пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "25.05 пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "DATE"
+      }
+    ],
+    "text": "26 мая занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 11,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 27 мая"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "28.05 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 16,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 29.05"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "DATE"
+      }
+    ],
+    "text": "30 мая пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 15,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 01 июня"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "DATE"
+      }
+    ],
+    "text": "1 июня расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "DATE"
+      }
+    ],
+    "text": "02 июня расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 17,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 2 июня"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "DATE"
+      }
+    ],
+    "text": "03 июня пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 11,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 3 июня"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "04.06 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 4.06"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "DATE"
+      }
+    ],
+    "text": "05 июня пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 14,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 5 июня"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "DATE"
+      }
+    ],
+    "text": "06 июня занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "DATE"
+      }
+    ],
+    "text": "6 июня расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "07.06 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "DATE"
+      }
+    ],
+    "text": "7.06 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "DATE"
+      }
+    ],
+    "text": "08 июня расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 11,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 8 июня"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "09.06 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 15,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 9.06"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "DATE"
+      }
+    ],
+    "text": "10 июня пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 11.06"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "12.06 пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 15,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 13 июня"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "14.06 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "15.06 пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 15,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 16 июня"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "DATE"
+      }
+    ],
+    "text": "17 июня расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "DATE"
+      }
+    ],
+    "text": "18 июня занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "19.06 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "DATE"
+      }
+    ],
+    "text": "20 июня расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "DATE"
+      }
+    ],
+    "text": "21 июня занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 15,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 22 июня"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 12,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 23 июня"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "24.06 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 15,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 25 июня"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "DATE"
+      }
+    ],
+    "text": "26 июня расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "27.06 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 15,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 28 июня"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "29.06 пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "01.07 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "DATE"
+      }
+    ],
+    "text": "1.07 пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 02.07"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "DATE"
+      }
+    ],
+    "text": "2.07 пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "DATE"
+      }
+    ],
+    "text": "03 июля расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 11,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 3 июля"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "04.07 пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 15,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 4.07"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "05.07 пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "DATE"
+      }
+    ],
+    "text": "5.07 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "06.07 пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "DATE"
+      }
+    ],
+    "text": "6.07 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "DATE"
+      }
+    ],
+    "text": "07 июля занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "DATE"
+      }
+    ],
+    "text": "7 июля расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "DATE"
+      }
+    ],
+    "text": "08 июля расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 11,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 8 июля"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "DATE"
+      }
+    ],
+    "text": "09 июля расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "DATE"
+      }
+    ],
+    "text": "9 июля пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "10.07 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "DATE"
+      }
+    ],
+    "text": "11 июля пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 12,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 12 июля"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "DATE"
+      }
+    ],
+    "text": "13 июля расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "DATE"
+      }
+    ],
+    "text": "14 июля занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 15,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 15 июля"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "16.07 пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 12,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 17 июля"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "18.07 пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "19.07 пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "20.07 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 16,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 21.07"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "22.07 пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 23.07"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 18,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 24 июля"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "25.07 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "DATE"
+      }
+    ],
+    "text": "26 июля занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 27.07"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 16,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 28.07"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 29.07"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 12,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 30 июля"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "01.08 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "DATE"
+      }
+    ],
+    "text": "1.08 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "02 августа пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "2 августа пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "03.08 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 3.08"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 04.08"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "DATE"
+      }
+    ],
+    "text": "4.08 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 18,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 05 августа"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 14,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 5 августа"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "06.08 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 15,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 6.08"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "07 августа расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "7 августа занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 16,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 08.08"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 15,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 8.08"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "09.08 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 9.08"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "10 августа пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 18,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 11 августа"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 18,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 12 августа"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "13 августа занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 14.08"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 21,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 15 августа"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "16 августа занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 15,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 17 августа"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "18.08 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "19.08 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "20.08 пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 21.08"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 22.08"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 21,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 23 августа"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "24 августа расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "25 августа занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "26.08 пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "27.08 пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 28.08"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 15,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 29 августа"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 15,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 30 августа"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 19,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 01 сентября"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 21,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 1 сентября"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "02.09 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "DATE"
+      }
+    ],
+    "text": "2.09 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 03.09"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "DATE"
+      }
+    ],
+    "text": "3.09 пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 04.09"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "DATE"
+      }
+    ],
+    "text": "4.09 пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 16,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 05.09"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "DATE"
+      }
+    ],
+    "text": "5.09 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 16,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 06.09"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 15,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 6.09"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 07.09"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 7.09"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "label": "DATE"
+      }
+    ],
+    "text": "08 сентября занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 21,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 8 сентября"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "label": "DATE"
+      }
+    ],
+    "text": "09 сентября пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "9 сентября занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "label": "DATE"
+      }
+    ],
+    "text": "10 сентября пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 16,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 11.09"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "label": "DATE"
+      }
+    ],
+    "text": "12 сентября занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "label": "DATE"
+      }
+    ],
+    "text": "13 сентября расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 22,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 14 сентября"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 22,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 15 сентября"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 16,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 16.09"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "17.09 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "label": "DATE"
+      }
+    ],
+    "text": "18 сентября расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 19,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 19 сентября"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "label": "DATE"
+      }
+    ],
+    "text": "20 сентября пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "21.09 пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "label": "DATE"
+      }
+    ],
+    "text": "22 сентября занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 16,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 23 сентября"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "24.09 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 25.09"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 22,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 26 сентября"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 16,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 27 сентября"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "label": "DATE"
+      }
+    ],
+    "text": "28 сентября занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "label": "DATE"
+      }
+    ],
+    "text": "29 сентября занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 18,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 01 октября"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "1 октября расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 21,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 02 октября"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "2 октября пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 03.10"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 3.10"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 04.10"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "DATE"
+      }
+    ],
+    "text": "4.10 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "05.10 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 5.10"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 06.10"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "DATE"
+      }
+    ],
+    "text": "6.10 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 15,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 07 октября"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 17,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 7 октября"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "08 октября расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 17,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 8 октября"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "09 октября расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 20,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 9 октября"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 10.10"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "11.10 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "12 октября расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "13.10 пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "14.10 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 15.10"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "16.10 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "17 октября расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 18.10"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "19 октября пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 20.10"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 21.10"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "22.10 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 23.10"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "24.10 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 25.10"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 15,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 26 октября"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 21,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 27 октября"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "28 октября пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 15,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 29 октября"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "30 октября расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 20,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 01 ноября"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 1 ноября"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 02.11"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "DATE"
+      }
+    ],
+    "text": "2.11 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "03 ноября расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "DATE"
+      }
+    ],
+    "text": "3 ноября пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "04.11 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 15,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 4.11"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "05.11 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 15,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 5.11"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "06 ноября пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "DATE"
+      }
+    ],
+    "text": "6 ноября занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "07.11 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "DATE"
+      }
+    ],
+    "text": "7.11 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "08.11 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 15,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 8.11"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "09.11 пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 15,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 9.11"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "10 ноября занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 11.11"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 14,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 12 ноября"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "13 ноября занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "14 ноября занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 15.11"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 16.11"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "17 ноября занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "18 ноября занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "19 ноября пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "20 ноября расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 17,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 21 ноября"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "22 ноября занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 14,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 23 ноября"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 24.11"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "25 ноября пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "26 ноября пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 17,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 27 ноября"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "28.11 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 14,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 29 ноября"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "01.12 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 1.12"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 02.12"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "DATE"
+      }
+    ],
+    "text": "2.12 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "03.12 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 3.12"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 21,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 04 декабря"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "4 декабря расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 15,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 05 декабря"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "DATE"
+      }
+    ],
+    "text": "5 декабря пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "06 декабря пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 14,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 6 декабря"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "07 декабря расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 20,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 7 декабря"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "08 декабря занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 14,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 8 декабря"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 09.12"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "DATE"
+      }
+    ],
+    "text": "9.12 пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "10.12 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 21,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 11 декабря"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 21,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 12 декабря"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "13.12 расписание"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 21,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 14 декабря"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "15.12 пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "16.12 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "17.12 пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "18.12 пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "19 декабря занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "20.12 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 21,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 21 декабря"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "22.12 занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 23.12"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "24 декабря занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "25 декабря пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "DATE"
+      }
+    ],
+    "text": "26 декабря занятия"
+  },
+  {
+    "entities": [
+      {
+        "start": 8,
+        "end": 18,
+        "label": "DATE"
+      }
+    ],
+    "text": "занятия 27 декабря"
+  },
+  {
+    "entities": [
+      {
+        "start": 5,
+        "end": 15,
+        "label": "DATE"
+      }
+    ],
+    "text": "пары 28 декабря"
+  },
+  {
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "DATE"
+      }
+    ],
+    "text": "29.12 пары"
+  },
+  {
+    "entities": [
+      {
+        "start": 11,
+        "end": 16,
+        "label": "DATE"
+      }
+    ],
+    "text": "расписание 30.12"
+  }
+]
