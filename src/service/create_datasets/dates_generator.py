@@ -20,10 +20,11 @@ zxc = []
 for monthNumber, val in dates.items():
     monthName, n_days = val.values()
     for day in range(1, n_days):
-        month = '.' + str(monthNumber) if random.random() > .5 else ' ' + monthName
+        month = '.' + \
+            str(monthNumber) if random.random() > .5 else ' ' + monthName
         if day < 10:
             zxc.append('0' + str(day) + month)
         zxc.append(str(day) + month)
 
-with open(os.path.dirname(os.path.abspath(__file__)) + '/dates.txt', 'a') as file:
+with open(os.path.dirname(os.path.abspath(__file__)) + '/../../../datasets/dates/dates.txt', 'a') as file:
     file.write('\n'.join(elem for elem in zxc))

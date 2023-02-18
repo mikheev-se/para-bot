@@ -8,7 +8,7 @@ dataset = []
 queries = ['расписание', 'занятия', 'пары', ]
 label = 'date'
 
-with open(os.path.dirname(os.path.abspath(__file__)) + '/dates.txt', 'r') as file:
+with open(os.path.dirname(os.path.abspath(__file__)) + '/../../../datasets/dates/dates.txt', 'r') as file:
     dates = list(map(lambda x: x.replace('\n', ''), file.readlines()))
 
 for date in dates:
@@ -27,5 +27,5 @@ for date in dates:
         'text': result.strip()
     })
 
-with open(os.path.dirname(os.path.abspath(__file__)) + '/dates.json', 'w') as file:
+with open(os.path.dirname(os.path.abspath(__file__)) + '/../../../datasets/dates/dates.json', 'w') as file:
     json.dump(dataset, file, indent=2, ensure_ascii=False)

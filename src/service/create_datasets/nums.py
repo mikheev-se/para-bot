@@ -5,10 +5,11 @@ import numpy as np
 
 sep = ' '
 dataset = []
-queries = ['лабораторная', 'лабораторная номер', 'контрольная', 'контрольная номер', 'неделя']
+queries = ['лабораторная', 'лабораторная номер',
+           'контрольная', 'контрольная номер', 'неделя']
 label = 'number'
 
-with open(os.path.dirname(os.path.abspath(__file__)) + '/numbers.txt', 'r') as file:
+with open(os.path.dirname(os.path.abspath(__file__)) + '/../../../datasets/numbers/numbers.txt', 'r') as file:
     numbers = list(map(lambda x: x.replace('\n', ''), file.readlines()))
 
 for number in numbers:
@@ -22,5 +23,5 @@ for number in numbers:
         'text': result.strip()
     })
 
-with open(os.path.dirname(os.path.abspath(__file__)) + '/numbers.json', 'w') as file:
+with open(os.path.dirname(os.path.abspath(__file__)) + '/../../../datasets/numbers/numbers.json', 'w') as file:
     json.dump(dataset, file, indent=2, ensure_ascii=False)

@@ -13,7 +13,7 @@ queries = ['gitlab аккаунт',
            'успеваемость', ]
 label = 'name'
 
-with open(os.path.dirname(os.path.abspath(__file__)) + '/names.txt', 'r') as file:
+with open(os.path.dirname(os.path.abspath(__file__)) + '/../../../datasets/names/names.txt', 'r') as file:
     names = list(map(lambda x: x.replace('\n', ''), file.readlines()))
 
 for name in names:
@@ -32,5 +32,5 @@ for name in names:
         'text': result.strip()
     })
 
-with open(os.path.dirname(os.path.abspath(__file__)) + '/names.json', 'w') as file:
+with open(os.path.dirname(os.path.abspath(__file__)) + '/../../../datasets/names/names.json', 'w') as file:
     json.dump(dataset, file, indent=2, ensure_ascii=False)

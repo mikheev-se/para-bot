@@ -4,7 +4,7 @@ import spacy
 from spacy.util import filter_spans
 from spacy.tokens import DocBin
 
-data_path = os.path.dirname(os.path.abspath(__file__)) + '/../datasets/'
+data_path = os.path.dirname(os.path.abspath(__file__)) + '/../../datasets/'
 datasets_names = ['dates', 'names', 'numbers']
 nlp = spacy.load('ru_core_news_md')
 doc_bin = DocBin()
