@@ -13,7 +13,7 @@ model = AutoModel.from_pretrained('sberbank-ai/sbert_large_nlu_ru')
 # model = AutoModel.from_pretrained('DeepPavlov/rubert-base-cased')
 
 
-class Model:
+class QueryService:
     queries = [
         'Моя работа принята?',
 
@@ -30,38 +30,38 @@ class Model:
 
         'Когда следующее занятие?',
 
-        'Как зовут преподавателя?',
+        # 'Как зовут преподавателя?',
+        'Как зовут преподавателя по ',
 
         'Какая сейчас неделя по счёту?',
 
         'Когда будет зачётная/контрольная неделя?',
+
+
+        'gitlab аккаунт',
+        'github аккаунт',
+
+        'Какая почта',
     ]
 
-    # baseline = .5
-    baseline = 0.4
+    baseline = 0.47
 
     def __init__(self):
         tokens = self.__getTokens__(self.queries)
         embeddings = self.__getEmbeddings__(tokens)
         mask = self.__getMask__(tokens, embeddings)
         self.meanPooled = self.__meanPooling__(embeddings, mask)
-        # convert from PyTorch tensor to numpy array
         self.meanPooled = self.meanPooled.detach().numpy()
 
-        # calculate
-
     def __getTokens__(self, queries):
-        # initialize dictionary that will contain tokenized queries
         tokens = {'input_ids': [], 'attention_mask': []}
 
         for sentence in queries:
-            # tokenize sentence and append to dictionary lists
             newTokens = tokenizer.encode_plus(sentence, max_length=128, truncation=True,
                                               padding='max_length', return_tensors='pt')
             tokens['input_ids'].append(newTokens['input_ids'][0])
             tokens['attention_mask'].append(newTokens['attention_mask'][0])
 
-        # reformat list of tensors into single tensor
         tokens['input_ids'] = torch.stack(tokens['input_ids'])
         tokens['attention_mask'] = torch.stack(tokens['attention_mask'])
 
@@ -92,7 +92,6 @@ class Model:
         embeddings = self.__getEmbeddings__(tokens)
         mask = self.__getMask__(tokens, embeddings)
         meanPooled = self.__meanPooling__(embeddings, mask)
-        # convert from PyTorch tensor to numpy array
         result = meanPooled.detach().numpy()
 
         similarity = cosine_similarity(
@@ -102,10 +101,11 @@ class Model:
         similarity = similarity.flatten()
 
         if similarity.max() < self.baseline:
-            raise ValueError(
-                f'Запрос не распознан! Максимальная оценка: {similarity.max()}')
+            return (
+                f'Запрос не распознан! Максимальная оценка: {similarity.max()}',
+                similarity.max()
+            )
 
-        return self.queries[np.argmax(similarity)]
+        idx_max = np.argmax(similarity)
 
-
-recognitionModel = Model()
+        return self.queries[idx_max], similarity[idx_max]
